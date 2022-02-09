@@ -1,0 +1,11 @@
+.space-align-middle {
+  margin-top: 40%;
+  align-items: center;
+  width: 80%;
+}
+
+.title,
+.logo,
+.signup {
+  text-align: center;
+}
